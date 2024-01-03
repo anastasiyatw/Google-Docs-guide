@@ -1,6 +1,6 @@
 # Google Docs guide
 
-Google Docs guide includes [overview](google-docs-guide/docs/index.md) and 6 functions:
+Google Docs guide includes [overview](google-docs-guide/docs/index.md) and six functions:
 
 - [Creating Google document](google-docs-guide/docs/functions-of-google-docs/create-google-documents.md).
 - [Manage access to Google documents](google-docs-guide/docs/functions-of-google-docs/manage-access-to-google-documents.md).
